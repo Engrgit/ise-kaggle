@@ -1,2 +1,2 @@
-# kaggle-Challenge
-A one stop repository to all my kaggle challenges
+# AI Competitions
+A one stop repository to all my ai challenges
